@@ -26,11 +26,11 @@ galleryItems.forEach(item => {
   gallery.appendChild(li);
 });
 
-document.addEventListener('DOMContentLoaded', () => {
+
   new SimpleLightbox('.gallery a', {
     captionsData: 'alt',
     captionDelay: 250,
     captionsDataAlt: 'Image description',
   });
-});
+
 console.log(galleryItems);
