@@ -519,11 +519,20 @@ const saveFormData = ()=>{
     localStorage.setItem(localStorageKey, JSON.stringify(formData));
 };
 const throttledSaveFormData = (0, _lodashThrottleDefault.default)(saveFormData, 500);
+const checkFormInputs = ()=>{
+    if (!form.elements.email.value || !form.elements.message.value) {
+        alert("Prosz\u0119 wype\u0142ni\u0107 oba pola formularza!");
+        return false;
+    }
+    return true;
+};
 form.addEventListener("input", throttledSaveFormData);
 form.addEventListener("submit", (evt)=>{
     evt.preventDefault();
-    localStorage.removeItem(localStorageKey);
-    form.reset();
+    if (checkFormInputs()) {
+        localStorage.removeItem(localStorageKey);
+        form.reset();
+    }
 });
 
 },{"lodash.throttle":"bGJVT","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3"}],"bGJVT":[function(require,module,exports) {

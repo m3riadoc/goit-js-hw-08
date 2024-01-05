@@ -90,7 +90,7 @@
 84C:\Users\barto\Pulpit\goit-js-hw-08\node_modules\source-map\dist\source-map.debug.js133488517687529746 0
 97C:\Users\barto\Pulpit\goit-js-hw-08\node_modules\@swc\helpers\src\_initializer_define_property.js133488517695782141 0
 66C:\Users\barto\Pulpit\goit-js-hw-08\node_modules\has-flag\index.js133488517685895212 0
-40C:\Users\barto\Pulpit\goit-js-hw-08\dist133489251647541933 1
+40C:\Users\barto\Pulpit\goit-js-hw-08\dist133489418560592308 1
 87C:\Users\barto\Pulpit\goit-js-hw-08\node_modules\css-tree\lib\syntax\node\IdSelector.js133488517688805480 0
 69C:\Users\barto\Pulpit\goit-js-hw-08\node_modules\nan\doc\node_misc.md133488517688466614 0
 79C:\Users\barto\Pulpit\goit-js-hw-08\node_modules\nth-check\lib\esm\parse.js.map133488517687400181 0
@@ -102,7 +102,7 @@
 80C:\Users\barto\Pulpit\goit-js-hw-08\node_modules\caniuse-lite\data\regions\TT.js133488517691875212 0
 94C:\Users\barto\Pulpit\goit-js-hw-08\node_modules\abortcontroller-polyfill\dist\umd-polyfill.js133488517687151013 0
 88C:\Users\barto\Pulpit\goit-js-hw-08\node_modules\simplelightbox\src\simple-lightbox.scss133488698516373884 0
-40C:\Users\barto\Pulpit\goit-js-hw-08\docs133489257894317848 1
+40C:\Users\barto\Pulpit\goit-js-hw-08\docs133489421455721457 1
 79C:\Users\barto\Pulpit\goit-js-hw-08\node_modules\fast-glob\out\utils\pattern.js133488517687430079 0
 83C:\Users\barto\Pulpit\goit-js-hw-08\node_modules\type-fest\source\set-required.d.ts133488517688028079 0
 99C:\Users\barto\Pulpit\goit-js-hw-08\node_modules\caniuse-lite\data\features\internationalization.js133488517690818746 0
@@ -271,7 +271,7 @@
 59C:\Users\barto\Pulpit\goit-js-hw-08\node_modules\picocolors133488517686533080 1
 79C:\Users\barto\Pulpit\goit-js-hw-08\node_modules\simplelightbox\demo\img\bg.jpg133488698516224389 0
 77C:\Users\barto\Pulpit\goit-js-hw-08\node_modules\terser\lib\compress\index.js133488517688506478 0
-57C:\Users\barto\Pulpit\goit-js-hw-08\src\js\03-feedback.js133488820088718271 0
+57C:\Users\barto\Pulpit\goit-js-hw-08\src\js\03-feedback.js133489418559826277 0
 57C:\Users\barto\Pulpit\goit-js-hw-08\node_modules\has-flag133488517686224114 1
 103C:\Users\barto\Pulpit\goit-js-hw-08\node_modules\@swc\helpers\lib\_class_static_private_field_update.js133488517694317045 0
 78C:\Users\barto\Pulpit\goit-js-hw-08\node_modules\terser\node_modules\commander133488517686473282 1
@@ -1446,7 +1446,7 @@
 75C:\Users\barto\Pulpit\goit-js-hw-08\node_modules\@parcel\compressor-raw\lib133488517688077913 1
 78C:\Users\barto\Pulpit\goit-js-hw-08\node_modules\source-map-support\LICENSE.md133488517686562978 0
 80C:\Users\barto\Pulpit\goit-js-hw-08\node_modules\caniuse-lite\data\regions\BM.js133488517689074581 0
-68C:\Users\barto\Pulpit\goit-js-hw-08\dist\01-gallery.101ee4ef.css.map133489251647111935 0
+68C:\Users\barto\Pulpit\goit-js-hw-08\dist\01-gallery.101ee4ef.css.map133489417954118589 0
 80C:\Users\barto\Pulpit\goit-js-hw-08\node_modules\source-map-support\package.json133488517686453345 0
 82C:\Users\barto\Pulpit\goit-js-hw-08\node_modules\@jridgewell\gen-mapping\README.md133488517686921783 0
 80C:\Users\barto\Pulpit\goit-js-hw-08\node_modules\domutils\lib\traversal.d.ts.map133488517687320447 0
@@ -1615,7 +1615,7 @@
 76C:\Users\barto\Pulpit\goit-js-hw-08\node_modules\sass\types\value\color.d.ts133488517689084549 0
 72C:\Users\barto\Pulpit\goit-js-hw-08\node_modules\normalize-path\index.js133488517685636081 0
 79C:\Users\barto\Pulpit\goit-js-hw-08\node_modules\sass\types\value\function.d.ts133488517689154313 0
-68C:\Users\barto\Pulpit\goit-js-hw-08\dist\01-gallery.7d68834f.css.map133489251647111935 0
+68C:\Users\barto\Pulpit\goit-js-hw-08\dist\01-gallery.7d68834f.css.map133489417954178386 0
 76C:\Users\barto\Pulpit\goit-js-hw-08\node_modules\sass\types\value\index.d.ts133488517689214112 0
 74C:\Users\barto\Pulpit\goit-js-hw-08\node_modules\sass\types\value\map.d.ts133488517689234046 0
 80C:\Users\barto\Pulpit\goit-js-hw-08\node_modules\sass\types\util\promise_or.d.ts133488517689283882 0
@@ -1802,7 +1802,7 @@
 81C:\Users\barto\Pulpit\goit-js-hw-08\node_modules\@swc\helpers\src\_ts_decorate.js133488517696031310 0
 67C:\Users\barto\Pulpit\goit-js-hw-08\node_modules\path-type\index.js133488517685885246 0
 77C:\Users\barto\Pulpit\goit-js-hw-08\node_modules\node-addon-api\noexcept.gypi133488517686224114 0
-51C:\Users\barto\Pulpit\goit-js-hw-08\dist\index.html133489251647091933 0
+51C:\Users\barto\Pulpit\goit-js-hw-08\dist\index.html133489417954178386 0
 75C:\Users\barto\Pulpit\goit-js-hw-08\node_modules\csso\lib\replace\String.js133488517688466614 0
 66C:\Users\barto\Pulpit\goit-js-hw-08\node_modules\path-type\license133488517686094546 0
 83C:\Users\barto\Pulpit\goit-js-hw-08\node_modules\@parcel\core\test\fixtures\context133488517696320342 1
@@ -1874,7 +1874,7 @@
 99C:\Users\barto\Pulpit\goit-js-hw-08\node_modules\parcel-reporter-clean-dist\test\fixtures\packageV3133488517688307147 1
 99C:\Users\barto\Pulpit\goit-js-hw-08\node_modules\parcel-reporter-clean-dist\test\fixtures\packageV4133488517688366945 1
 96C:\Users\barto\Pulpit\goit-js-hw-08\node_modules\caniuse-lite\data\features\deviceorientation.js133488517690270581 0
-68C:\Users\barto\Pulpit\goit-js-hw-08\dist\03-feedback.5440b4f4.js.map133489251647361932 0
+68C:\Users\barto\Pulpit\goit-js-hw-08\dist\03-feedback.5440b4f4.js.map133489418560582304 0
 59C:\Users\barto\Pulpit\goit-js-hw-08\node_modules\fclone\src133488517686921783 1
 112C:\Users\barto\Pulpit\goit-js-hw-08\node_modules\parcel-reporter-clean-dist\test\fixtures\packageV5\package.json133488517687719111 0
 118C:\Users\barto\Pulpit\goit-js-hw-08\node_modules\parcel-reporter-clean-dist\test\fixtures\packageV5\files\embed\embed2133488517688925081 1
@@ -2273,7 +2273,6 @@
 86C:\Users\barto\Pulpit\goit-js-hw-08\node_modules\@swc\helpers\src\_array_with_holes.js133488517695243945 0
 82C:\Users\barto\Pulpit\goit-js-hw-08\node_modules\@parcel\packager-svg\package.json133488517693111077 0
 61C:\Users\barto\Pulpit\goit-js-hw-08\node_modules\lmdb\LICENSE133488517687469944 0
-64C:\Users\barto\Pulpit\goit-js-hw-08\docs\03-feedback.65a53d92.js133489257894257850 0
 82C:\Users\barto\Pulpit\goit-js-hw-08\node_modules\fast-glob\out\managers\tasks.d.ts133488517688735714 0
 92C:\Users\barto\Pulpit\goit-js-hw-08\node_modules\@jridgewell\set-array\dist\set-array.umd.js133488517686224114 0
 60C:\Users\barto\Pulpit\goit-js-hw-08\node_modules\lmdb\mod.ts133488517689851980 0
@@ -2284,7 +2283,7 @@
 66C:\Users\barto\Pulpit\goit-js-hw-08\node_modules\lmdb\node_modules133488517682087979 1
 66C:\Users\barto\Pulpit\goit-js-hw-08\node_modules\lmdb\package.json133488517689772248 0
 70C:\Users\barto\Pulpit\goit-js-hw-08\node_modules\lmdb\rollup.config.js133488517689752317 0
-61C:\Users\barto\Pulpit\goit-js-hw-08\dist\02-video.a74b541c.js133489251647161936 0
+61C:\Users\barto\Pulpit\goit-js-hw-08\dist\02-video.a74b541c.js133489417954198380 0
 65C:\Users\barto\Pulpit\goit-js-hw-08\node_modules\lmdb\SECURITY.md133488517689832045 0
 58C:\Users\barto\Pulpit\goit-js-hw-08\node_modules\lmdb\util133488517689752317 1
 62C:\Users\barto\Pulpit\goit-js-hw-08\node_modules\lmdb\write.js133488517689772248 0
@@ -2388,7 +2387,7 @@
 104C:\Users\barto\Pulpit\goit-js-hw-08\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\midl.c133488517689014780 0
 104C:\Users\barto\Pulpit\goit-js-hw-08\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\midl.h133488517689612782 0
 67C:\Users\barto\Pulpit\goit-js-hw-08\node_modules\css-select\LICENSE133488517684270647 0
-56C:\Users\barto\Pulpit\goit-js-hw-08\dist\01-gallery.html133489251647171937 0
+56C:\Users\barto\Pulpit\goit-js-hw-08\dist\01-gallery.html133489417954272211 0
 105C:\Users\barto\Pulpit\goit-js-hw-08\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mtest.c133488517689104480 0
 71C:\Users\barto\Pulpit\goit-js-hw-08\node_modules\dom-serializer\lib\esm133488517687220782 1
 80C:\Users\barto\Pulpit\goit-js-hw-08\node_modules\fast-glob\out\utils\stream.d.ts133488517688636045 0
@@ -2641,7 +2640,7 @@
 65C:\Users\barto\Pulpit\goit-js-hw-08\node_modules\has-flag\license133488517686104514 0
 67C:\Users\barto\Pulpit\goit-js-hw-08\node_modules\globals\index.d.ts133488517686762315 0
 103C:\Users\barto\Pulpit\goit-js-hw-08\node_modules\@parcel\transformer-js\parcel-swc.linux-arm64-gnu.node133488517698124311 0
-69C:\Users\barto\Pulpit\goit-js-hw-08\dist\03-feedback.ba2d0753.css.map133489251647111935 0
+69C:\Users\barto\Pulpit\goit-js-hw-08\dist\03-feedback.ba2d0753.css.map133489417954118589 0
 73C:\Users\barto\Pulpit\goit-js-hw-08\node_modules\glob-parent\CHANGELOG.md133488517686104514 0
 69C:\Users\barto\Pulpit\goit-js-hw-08\node_modules\glob-parent\index.js133488517685646049 0
 65C:\Users\barto\Pulpit\goit-js-hw-08\docs\02-video.bcd1af65.js.map133489257894307848 0
@@ -3215,7 +3214,7 @@
 88C:\Users\barto\Pulpit\goit-js-hw-08\node_modules\@parcel\reporter-cli\lib\CLIReporter.js133488517688426748 0
 94C:\Users\barto\Pulpit\goit-js-hw-08\node_modules\@parcel\transformer-css\src\CSSTransformer.js133488517693848613 0
 80C:\Users\barto\Pulpit\goit-js-hw-08\node_modules\caniuse-lite\data\regions\BF.js133488517688954980 0
-57C:\Users\barto\Pulpit\goit-js-hw-08\dist\03-feedback.html133489251647361932 0
+57C:\Users\barto\Pulpit\goit-js-hw-08\dist\03-feedback.html133489417954158384 0
 80C:\Users\barto\Pulpit\goit-js-hw-08\node_modules\caniuse-lite\data\regions\BG.js133488517688984877 0
 80C:\Users\barto\Pulpit\goit-js-hw-08\node_modules\caniuse-lite\data\regions\BH.js133488517688994844 0
 93C:\Users\barto\Pulpit\goit-js-hw-08\node_modules\caniuse-lite\data\features\filereadersync.js133488517690459944 0
@@ -3740,7 +3739,7 @@
 91C:\Users\barto\Pulpit\goit-js-hw-08\node_modules\caniuse-lite\data\features\rel-noopener.js133488517691446646 0
 86C:\Users\barto\Pulpit\goit-js-hw-08\node_modules\caniuse-lite\data\features\rellist.js133488517691456610 0
 98C:\Users\barto\Pulpit\goit-js-hw-08\node_modules\caniuse-lite\data\features\requestidlecallback.js133488517691476544 0
-63C:\Users\barto\Pulpit\goit-js-hw-08\dist\01-gallery.53390864.js133489251647251934 0
+63C:\Users\barto\Pulpit\goit-js-hw-08\dist\01-gallery.53390864.js133489417954252194 0
 93C:\Users\barto\Pulpit\goit-js-hw-08\node_modules\caniuse-lite\data\features\resizeobserver.js133488517691476544 0
 94C:\Users\barto\Pulpit\goit-js-hw-08\node_modules\caniuse-lite\data\features\resource-timing.js133488517691476544 0
 98C:\Users\barto\Pulpit\goit-js-hw-08\node_modules\@parcel\transformer-babel\lib\BabelTransformer.js133488517688187546 0
@@ -4819,7 +4818,7 @@
 58C:\Users\barto\Pulpit\goit-js-hw-08\node_modules\.bin\sass133488517700944877 0
 62C:\Users\barto\Pulpit\goit-js-hw-08\node_modules\.bin\sass.cmd133488517700944877 0
 60C:\Users\barto\Pulpit\goit-js-hw-08\node_modules\.bin\semver133488536487841869 0
-64C:\Users\barto\Pulpit\goit-js-hw-08\dist\01-gallery.7d68834f.css133489251647091933 0
+64C:\Users\barto\Pulpit\goit-js-hw-08\dist\01-gallery.7d68834f.css133489417954168390 0
 64C:\Users\barto\Pulpit\goit-js-hw-08\node_modules\.bin\semver.ps1133488536487831903 0
 58C:\Users\barto\Pulpit\goit-js-hw-08\node_modules\.bin\svgo133488517700944877 0
 62C:\Users\barto\Pulpit\goit-js-hw-08\node_modules\.bin\svgo.cmd133488517700944877 0
@@ -4828,19 +4827,20 @@
 63C:\Users\barto\Pulpit\goit-js-hw-08\docs\01-gallery.cfbfee09.js133489257894267849 0
 67C:\Users\barto\Pulpit\goit-js-hw-08\docs\01-gallery.cfbfee09.js.map133489257894307848 0
 61C:\Users\barto\Pulpit\goit-js-hw-08\docs\02-video.bcd1af65.js133489257894267849 0
-68C:\Users\barto\Pulpit\goit-js-hw-08\docs\03-feedback.65a53d92.js.map133489257894307848 0
 65C:\Users\barto\Pulpit\goit-js-hw-08\docs\03-feedback.834fe6cf.css133489257894257850 0
 69C:\Users\barto\Pulpit\goit-js-hw-08\docs\03-feedback.834fe6cf.css.map133489257894307848 0
-57C:\Users\barto\Pulpit\goit-js-hw-08\docs\03-feedback.html133489257894257850 0
+64C:\Users\barto\Pulpit\goit-js-hw-08\docs\03-feedback.c5149733.js133489421455671457 0
+68C:\Users\barto\Pulpit\goit-js-hw-08\docs\03-feedback.c5149733.js.map133489421455681457 0
+57C:\Users\barto\Pulpit\goit-js-hw-08\docs\03-feedback.html133489421455671457 0
 51C:\Users\barto\Pulpit\goit-js-hw-08\docs\index.html133489257894257850 0
-64C:\Users\barto\Pulpit\goit-js-hw-08\dist\01-gallery.101ee4ef.css133489251647081934 0
-67C:\Users\barto\Pulpit\goit-js-hw-08\dist\01-gallery.53390864.js.map133489251647261934 0
-65C:\Users\barto\Pulpit\goit-js-hw-08\dist\02-video.a74b541c.js.map133489251647171937 0
-54C:\Users\barto\Pulpit\goit-js-hw-08\dist\02-video.html133489251647221931 0
-64C:\Users\barto\Pulpit\goit-js-hw-08\dist\03-feedback.5440b4f4.js133489251647351933 0
-65C:\Users\barto\Pulpit\goit-js-hw-08\dist\03-feedback.ba2d0753.css133489251647081934 0
-66C:\Users\barto\Pulpit\goit-js-hw-08\dist\goit-js-hw-08.59712999.js133489251647181934 0
-70C:\Users\barto\Pulpit\goit-js-hw-08\dist\goit-js-hw-08.59712999.js.map133489251647191930 0
+64C:\Users\barto\Pulpit\goit-js-hw-08\dist\01-gallery.101ee4ef.css133489417954118589 0
+67C:\Users\barto\Pulpit\goit-js-hw-08\dist\01-gallery.53390864.js.map133489417954262216 0
+65C:\Users\barto\Pulpit\goit-js-hw-08\dist\02-video.a74b541c.js.map133489417954208388 0
+54C:\Users\barto\Pulpit\goit-js-hw-08\dist\02-video.html133489417954188381 0
+64C:\Users\barto\Pulpit\goit-js-hw-08\dist\03-feedback.5440b4f4.js133489418560572306 0
+65C:\Users\barto\Pulpit\goit-js-hw-08\dist\03-feedback.ba2d0753.css133489417954118589 0
+66C:\Users\barto\Pulpit\goit-js-hw-08\dist\goit-js-hw-08.59712999.js133489417954198380 0
+70C:\Users\barto\Pulpit\goit-js-hw-08\dist\goit-js-hw-08.59712999.js.map133489417954208388 0
 68C:\Users\barto\Pulpit\goit-js-hw-08\assets\actions-config-step-1.png133488511395784412 0
 68C:\Users\barto\Pulpit\goit-js-hw-08\assets\actions-config-step-2.png133488511395804343 0
 59C:\Users\barto\Pulpit\goit-js-hw-08\assets\how-it-works.png133488511395814311 0
